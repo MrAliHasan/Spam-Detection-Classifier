@@ -1,8 +1,8 @@
 For a step-by-step guide on how I created this and how to use this 
 repository, check out the video tutorial on YouTube: 
-[Watch the Tutorial]
+[Watch the Playlist]
 
-https://youtu.be/pH549l0ZVxs
+https://www.youtube.com/playlist?list=PLoGk-8pBKSRURha8F4pg0CcE2zSdHaTkI
 
 
 
